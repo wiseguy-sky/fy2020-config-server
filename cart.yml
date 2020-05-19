@@ -1,5 +1,8 @@
 env: normal111
 
+server:
+  port: 9002
+
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
