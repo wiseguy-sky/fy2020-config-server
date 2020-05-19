@@ -1,12 +1,4 @@
-server:
-  port: 9002
-spring:
-  rabbitmq:
-    host: 182.92.238.60
-    port: 5672
-    username: guest
-    password: guest
-    publisher-confirms: true
+
     
 env: dev1
 
