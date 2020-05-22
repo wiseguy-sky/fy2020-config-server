@@ -34,3 +34,6 @@ spring:
 mybatis:
   mapper-locations: classpath*:com/neuedu/mapper/*Mapper.xml
   config-location: classpath:mybatis-config.xml
+  
+order:
+  timeout: 1
